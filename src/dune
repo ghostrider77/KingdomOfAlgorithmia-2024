@@ -1,2 +1,3 @@
 (library
-  (name kingdomOfAlgorithmia))
+  (name kingdomOfAlgorithmia)
+  (libraries str))
